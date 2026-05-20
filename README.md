@@ -27,10 +27,10 @@ Exploratory data analysis of diabetes and chronic disease prevalence across U.S.
 
 ---
 
-### 🤖 [Who Benefits Most from Cardiovascular Risk Interventions?]
+### 🤖 Who Benefits Most from Cardiovascular Risk Interventions?
 An uplift modeling project that goes beyond predicting risk to predicting treatment effect — identifying which patients would actually benefit from intervention..
 
-`Uplift Modeling` `Clustering` `scikit-learn`
+`Uplift Model` `Clustering` `scikit-learn`
 ---
 
 ### 🏥 LangGraph Clinical Decision Support Agent *(Coming Soon)*
