@@ -27,11 +27,10 @@ Exploratory data analysis of diabetes and chronic disease prevalence across U.S.
 
 ---
 
-### 🤖 [FlashIQ — AI-Powered Exam Prep App](https://github.com/mfebus/flashiq)
-Interactive flashcard quiz app powered by the Claude API. Generates dynamic multiple-choice questions on demand across data science, NLP, clinical AI, and CPMAI topics. Built as a demonstration of agentic AI patterns.
+### 🤖 [Who Benefits Most from Cardiovascular Risk Interventions?]
+An uplift modeling project that goes beyond predicting risk to predicting treatment effect — identifying which patients would actually benefit from intervention..
 
-`HTML` `JavaScript` `Claude API` `Agentic AI`
-
+`Uplift Modeling` `Clustering` `scikit-learn`
 ---
 
 ### 🏥 LangGraph Clinical Decision Support Agent *(Coming Soon)*
