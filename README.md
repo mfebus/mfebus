@@ -30,7 +30,8 @@ Exploratory data analysis of diabetes and chronic disease prevalence across U.S.
 ### 🏥 [Who Benefits Most from Cardiovascular Risk Interventions?](https://github.com/mfebus/heart-attack-prediction)
 Uplift modeling project identifying which patients benefit most from cardiovascular intervention — going beyond risk prediction to treatment effect estimation.
 
-`Uplift Modeling` `Clustering` `scikit-learn`
+`Uplift Modeling` `Tensor Flow` `Clustoring` `scikit-learn`
+
 ---
 
 ### 🏥 LangGraph Clinical Decision Support Agent *(Coming Soon)*
