@@ -21,6 +21,7 @@ CNN-based classification model for breast cancer detection using histopathology 
 
 ### 📊 [Diabetes & Chronic Disease Rates Across U.S. States](https://github.com/mfebus/diabetes-chronic-disease-analysis)
 Exploratory data analysis of diabetes and chronic disease prevalence across U.S. states, uncovering regional patterns and risk factors using public health datasets.
+[**Presentation:**](https://github.com/mfebus/diabetes-chronic-disease-analysis/blob/main/diabetes-chronic-disease-analysis.pdf)
 
 `Python` `Pandas` `Matplotlib` `Seaborn` `EDA` `Public Health`
 
