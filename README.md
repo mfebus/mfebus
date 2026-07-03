@@ -27,7 +27,7 @@ Exploratory data analysis of diabetes and chronic disease prevalence across U.S.
 
 ---
 
-### 🏥 [Predicting Myocardial Infarction and Identifying High Risk Profiles]([https://github.com/mfebus/predicting-myocardial-infarction)
+### 🏥 [Predicting Myocardial Infarction and Identifying High Risk Profiles](https://github.com/mfebus/predicting-myocardial-infarction)
 Supervised and unsupervised modeling project predicting heart attacks identifying patient profiles with the highest risks.
 
 `Random Forest` `XGBoost` `SHAP` `Feature Ablation` `Sensitivity and Failure Mode Analysis`
