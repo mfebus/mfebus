@@ -27,15 +27,15 @@ Exploratory data analysis of diabetes and chronic disease prevalence across U.S.
 
 ---
 
-### 🏥 [Predicting Myocardial Infarction and Identifying High Risk Profiles]([https://github.com/mfebus/predicting-myocardial-infarction)]
-Supervised and unsupervised modeling project predicting heart attacks identifying patient profiles with the highest risks. Next phase: Extending the team's predictive model into an agentic AI system where multiple specialized agents work together to interpret risk, retrieve clinical evidence, and support decisions. This phase, built independently, moves the project from prediction toward real-world clinical decision support.
+### 🏥 [Predicting Myocardial Infarction and Identifying High Risk Profiles]([https://github.com/mfebus/predicting-myocardial-infarction])
+Supervised and unsupervised modeling project predicting heart attacks identifying patient profiles with the highest risks.
 
 `Random Forest` `XGBoost` `SHAP` `Feature Ablation` `Sensitivity and Failure Mode Analysis`
 
 ---
 
-### 🏥 LangGraph Clinical Decision Support Agent *(Coming Soon)*
-Agentic AI system orchestrating a heart attack prediction model and breast cancer CNN classifier as tools within a LangGraph workflow, enhanced with RAG pulling from ACC/AHA cardiology guidelines and GPT-4o for clinical explanation generation.
+### 🏥 LangGraph Clinical Decision Support Agent - Extension of MI predictive modeling *(Coming Soon)*
+Agentic AI system orchestrating a heart attack prediction model tools within a LangGraph workflow, enhanced with RAG pulling from ACC/AHA cardiology guidelines and GPT-4o for clinical explanation generation.
 
 `LangGraph` `RAG` `ChromaDB` `GPT-4o` `Clinical AI` `Agentic AI`
 
