@@ -27,10 +27,10 @@ Exploratory data analysis of diabetes and chronic disease prevalence across U.S.
 
 ---
 
-### 🏥 [Who Benefits Most from Cardiovascular Risk Interventions?](https://github.com/mfebus/heart-attack-prediction)
-Uplift modeling project identifying which patients benefit most from cardiovascular intervention — going beyond risk prediction to treatment effect estimation.
+### 🏥 [Predicting Myocardial Infarction and Identifying High Risk Profiles]([https://github.com/mfebus/predicting-myocardial-infarction)]
+Supervised and unsupervised modeling project predicting heart attacks identifying patient profiles with the highest risks. Next phase: Extending the team's predictive model into an agentic AI system where multiple specialized agents work together to interpret risk, retrieve clinical evidence, and support decisions. This phase, built independently, moves the project from prediction toward real-world clinical decision support.
 
-`Uplift Modeling` `Tensor Flow` `Clustoring` `scikit-learn`
+`Random Forest` `XGBoost` `SHAP` `Feature Ablation` `Sensitivity and Failure Mode Analysis`
 
 ---
 
