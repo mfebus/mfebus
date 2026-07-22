@@ -1,10 +1,10 @@
 # Hi, I'm Maria Febus 👋
 
-**Pharma R&D Leader → Clinical Data Scientist**
+**Pharma R&D/Supply Chain Program/Project Leader → Healthcare Data Scientist**
 
-I bring 15+ years of experience in pharmaceutical R&D and project management to the world of AI and data science. I'm completing my **Master of Applied Data Science at the University of Michigan (2026)** and actively building clinical AI solutions at the intersection of machine learning, healthcare, and regulatory science.
+I bring 15+ years of experience in pharmaceutical R&D and supply chain and technology project management to the world of AI and data science. I'm completing my **Master of Applied Data Science at the University of Michigan (2026)** and actively building AI solutions at the intersection of machine learning and healthcare.
 
-📍 New Jersey | 🎓 U-M MADS 2026 | 🏥 Clinical AI | 💊 Pharma R&D
+📍 New Jersey | 🎓 U-M MADS 2026 | 🏥 Healthcare AI | 💊 Pharma R&D and Supply Chain
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Maria%20Febus-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/mariafebus)
 
@@ -67,10 +67,8 @@ Agentic AI system orchestrating a heart attack prediction model tools within a L
 
 ## 📫 Let's Connect
 
-I'm actively targeting **Clinical Data Scientist** roles at companies working at the intersection of AI and healthcare — IQVIA, Flatiron Health, Tempus, Veeva, Medidata, PAREXEL, and Komodo Health.
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/mariafebus)
 
 ---
 
-*"Bringing the rigor of pharma R&D to the power of machine learning."*
+*"Bringing the rigor of pharma R&D and supply chain to the power of machine learning."*
